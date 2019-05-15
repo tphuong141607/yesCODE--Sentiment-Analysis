@@ -21,4 +21,4 @@ The provided data file has 156,602 reviews written by Yelp members (the original
 2. Install Spider within Anaconda Navigator
 3. Launch Spider and import the source code (File --> Open --> select the analysis.py)
 4. Run the program
-#### The result file: [sentiment_analysis.csv]()
+#### The result file: [sentiment_analysis.csv](https://github.com/tphuong141607/yesCODE--Sentiment-Analysis/blob/master/result/sentiment_analysis.csv)
